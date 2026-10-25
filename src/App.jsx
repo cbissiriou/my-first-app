@@ -21,6 +21,7 @@ function App() {
         <div>
           <h1>Get started</h1>
           <h1>Hello World !</h1>
+          <h3>Test changes !</h3>
           <p>
             Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
           </p>
